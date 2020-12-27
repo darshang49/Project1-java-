@@ -39,6 +39,7 @@ out_file=sys.argv[3]
 
 # In[ ]:
 
+# This is an empty commennt to check changes
 
 
 
@@ -199,56 +200,6 @@ with rasterio.open("nag1.tif", "w",
     dst.write(slope, indexes = 1)
 
 
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[140]:
-
-
-
-
-
-# In[145]:
-
-
-
-
-
-# In[146]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
+x
 
 
